@@ -1,0 +1,4 @@
+Experiment Name,Hidden Architecture,Activation,Learning Rate,Batch Size,Final Train Accuracy,Final Test Accuracy
+Exp_1_Deep_Network,"Layers: [64, 32]",relu,0.005,32,1.0,0.9825
+Exp_2_High_Learning_Rate,Layers: [32],relu,0.5,32,0.985,0.9825
+Exp_3_Tanh_Small_Batch,Layers: [32],tanh,0.001,16,0.985,0.9825
