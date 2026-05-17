@@ -3,7 +3,7 @@
 # Neural Network Fundamentals and Training Behavior Analysis
 
 ### Dataset Source & Path
-* **Original Link:** https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJV-wBvUYs?usp=sharing
+* **Original Link: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
 * **Project Folder Path:** `ai_project_synthetic_datasets/part_1_neural_network_analysis/customer_churn_nn.csv`
 
 ---
